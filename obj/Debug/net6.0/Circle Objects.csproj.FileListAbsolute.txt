@@ -1,0 +1,14 @@
+C:\Users\Jake\class-dev\Projects\Circle Objects\bin\Debug\net6.0\Circle Objects.exe
+C:\Users\Jake\class-dev\Projects\Circle Objects\bin\Debug\net6.0\Circle Objects.deps.json
+C:\Users\Jake\class-dev\Projects\Circle Objects\bin\Debug\net6.0\Circle Objects.runtimeconfig.json
+C:\Users\Jake\class-dev\Projects\Circle Objects\bin\Debug\net6.0\Circle Objects.dll
+C:\Users\Jake\class-dev\Projects\Circle Objects\bin\Debug\net6.0\Circle Objects.pdb
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\Circle Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\Circle Objects.AssemblyInfoInputs.cache
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\Circle Objects.AssemblyInfo.cs
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\Circle Objects.csproj.CoreCompileInputs.cache
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\Circle Objects.dll
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\refint\Circle Objects.dll
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\Circle Objects.pdb
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\Circle Objects.genruntimeconfig.cache
+C:\Users\Jake\class-dev\Projects\Circle Objects\obj\Debug\net6.0\ref\Circle Objects.dll
